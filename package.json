@@ -1,0 +1,18 @@
+{
+    "type": "commonjs",
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "os": "^0.1.2",
+        "path": "^0.12.7"
+    },
+    "name": "task-tracker",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
