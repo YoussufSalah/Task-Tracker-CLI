@@ -38,3 +38,7 @@ Project from: [Roadmap.sh Task Tracker](https://roadmap.sh/projects/task-tracker
 ___________________________________________
 ### Wanna support me ?
 [Buy me a coffee!](https://ko-fi.com/youssufsalah) `(Starting from as little as 1$)`
+
+___________________________________________
+# Tags
+#javascript #node #node.js #nodejs #node_js #js #cli #cliapp #cli_app #task_tracker #tasktracker #task_tracker_cli #tasktrackercli #task_tracker_app #tasktrackerapp
